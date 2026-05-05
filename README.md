@@ -37,3 +37,7 @@ The model explains approximately 77% of the variance in the exam scores.
 - `student-exam-score-prediction-model.ipynb` → Main notebook with all ML steps
 - `README.md` → Project description
 
+✨ Future Work
+Try other models: RandomForest, XGBoost
+Feature importance analysis
+Hyperparameter tuning
